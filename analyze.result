@@ -1,0 +1,23 @@
+release1/test_half_10 724348 136 42737 35
+release1/test_half_11 475880 136 31091 39
+release1/test_half_12 896868 136 43170 40
+release1/test_half_13 729851 136 43201 42
+release1/test_half_14 504451 136 34202 20
+release1/test_half_8 786006 136 43197 25
+release1/test_half_9 742244 136 43101 38
+release1/train_full_0 1607525 136 86385 49
+release1/train_full_1 2220905 136 86400 67
+release1/train_full_2 2189981 136 83976 92
+release1/train_full_3 1373877 136 44342 97
+release1/train_full_4 1921382 136 78301 95
+release1/train_full_5 2040503 136 86402 94
+release1/train_full_6 1571772 136 86395 74
+release1/train_full_7 1594054 136 86382 47
+release1/train_half_10 801863 136 43199 47
+release1/train_half_11 657762 136 32103 53
+release1/train_half_12 772682 136 43200 58
+release1/train_half_13 634216 136 43189 50
+release1/train_half_14 440152 136 26704 47
+release1/train_half_8 757935 136 43199 37
+release1/train_half_9 809084 136 43199 56
+timestamp: 1193763, ad_ids: 623
