@@ -43,7 +43,8 @@ filed = read_map(filed_file)
 mapping = read_map(feature_file)
 
 for i in data:
-    print(i[0][2], end=' ')
+    if len(i[0]) == 3:
+        print(i[0][2], end=' ')
     print("0:{:d}:1".format(mapping[i[0][1]]), end=' ')
     for j in i[1]:
         print("{:d}:{:d}:1".format(filed[str(j)], mapping[str(j)]), end = ' ')
