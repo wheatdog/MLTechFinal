@@ -55,7 +55,8 @@ print_map(filed, filed_file)
 print_map(mapping, feature_file)
 
 for i in data:
-    print(i[0][2], end=' ')
+    if len(i[0]) == 3:
+        print(i[0][2], end=' ')
     print("0:{:d}:1".format(mapping[i[0][1]]), end=' ')
     for j in i[1]:
         print("{:d}:{:d}:1".format(filed[j], mapping[j]), end = ' ')
