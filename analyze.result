@@ -1,3 +1,4 @@
+[Filename] [Number of data] [Largest User Feature Dim] [Number of timestamp] [Number of ad id]
 release1/test_half_10 724348 136 42737 35
 release1/test_half_11 475880 136 31091 39
 release1/test_half_12 896868 136 43170 40

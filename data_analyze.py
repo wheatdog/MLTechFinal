@@ -36,6 +36,8 @@ def scan(data_file_name):
     print(data_file_name, n, max_dim, len(ads[0]), len(ads[1]))
     return [data_file_name, n, max_dim, ads]
 
+print("[Filename] [Number of data] [Largest User Feature Dim] [Number of timestamp] [Number of ad id]")
+
 data = []
 
 data += [scan("release1/test_half_10")]
