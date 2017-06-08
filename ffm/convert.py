@@ -1,6 +1,9 @@
-from collections import Counter
 import sys
 
+# Usage:
+# python convert.py filed.map feature.map input.train
+
+# If using all data,
 # field: 136 (0 or 1) + 1 (ad_id)
 # feature: 136 + ad_ids
 
@@ -23,7 +26,17 @@ def read_data(data_file_name):
 
     return cnt, prob_data
 
-n, data = read_data("../train")
+def print_map(m, fname):
+    f = open(fname, 'w')
+    for i in m:
+        print(i, m[i], file=f)
+    f.close()
+
+filed_file = sys.argv[1]
+feature_file = sys.argv[2]
+train_file = sys.argv[3]
+
+n, data = read_data(train_file)
     
 filed = {}
 filed[0] = 0
@@ -38,13 +51,8 @@ for i in data:
         if j not in mapping:
             mapping[j] = len(mapping)
 
-print("filed:", file=sys.stderr)
-for i in filed:
-    print(i, filed[i], file=sys.stderr)
-
-print("mapping:", file=sys.stderr)
-for i in mapping:
-    print(i, mapping[i], file=sys.stderr)
+print_map(filed, filed_file)
+print_map(mapping, feature_file)
 
 for i in data:
     print(i[0][2], end=' ')
