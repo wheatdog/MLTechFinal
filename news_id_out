@@ -1,0 +1,623 @@
+id-596081 {'from-file': {'release1/test_half_10': 39481, 'release1/train_half_10': 21073}, 'clicked': {'0': 20782, '1': 291}}
+id-597342 {'from-file': {'release1/test_half_10': 40908, 'release1/train_half_10': 5066, 'release1/train_half_11': 2970}, 'clicked': {'0': 7730, '1': 306}}
+id-596711 {'from-file': {'release1/test_half_10': 39552, 'release1/train_half_10': 19192}, 'clicked': {'0': 18932, '1': 260}}
+id-592245 {'from-file': {'release1/test_half_10': 40770, 'release1/train_half_10': 20293, 'release1/train_half_11': 2270}, 'clicked': {'0': 22071, '1': 492}}
+id-594589 {'from-file': {'release1/test_half_10': 8086, 'release1/train_half_10': 20997}, 'clicked': {'0': 19880, '1': 1117}}
+id-591085 {'from-file': {'release1/test_half_10': 14225, 'release1/train_half_10': 21024}, 'clicked': {'0': 20266, '1': 758}}
+id-594211 {'from-file': {'release1/test_half_10': 17272, 'release1/train_half_10': 21098}, 'clicked': {'0': 20055, '1': 1043}}
+id-594223 {'from-file': {'release1/test_half_10': 14325, 'release1/train_half_10': 20969}, 'clicked': {'0': 20126, '1': 843}}
+id-595843 {'from-file': {'release1/test_half_10': 30534, 'release1/train_half_10': 21102}, 'clicked': {'0': 20317, '1': 785}}
+id-596936 {'from-file': {'release1/test_half_10': 31853, 'release1/train_half_10': 13023}, 'clicked': {'0': 12452, '1': 571}}
+id-591423 {'from-file': {'release1/test_half_10': 16438, 'release1/train_half_10': 21299}, 'clicked': {'0': 21072, '1': 227}}
+id-595085 {'from-file': {'release1/test_half_10': 15133, 'release1/train_half_10': 21239}, 'clicked': {'0': 20836, '1': 403}}
+id-596993 {'from-file': {'release1/test_half_10': 37474, 'release1/train_half_10': 17194}, 'clicked': {'0': 16544, '1': 650}}
+id-594501 {'from-file': {'release1/test_half_10': 30194, 'release1/train_half_10': 21059}, 'clicked': {'0': 20463, '1': 596}}
+id-594694 {'from-file': {'release1/test_half_10': 17879, 'release1/train_half_10': 20955}, 'clicked': {'0': 20274, '1': 681}}
+id-591266 {'from-file': {'release1/test_half_10': 30129, 'release1/train_half_10': 21052}, 'clicked': {'0': 20238, '1': 814}}
+id-595413 {'from-file': {'release1/test_half_10': 5287, 'release1/train_half_10': 21187}, 'clicked': {'0': 20534, '1': 653}}
+id-594038 {'from-file': {'release1/test_half_10': 7830, 'release1/train_half_10': 21158}, 'clicked': {'0': 20537, '1': 621}}
+id-597558 {'from-file': {'release1/test_half_10': 23856, 'release1/train_half_10': 8790}, 'clicked': {'0': 8654, '1': 136}}
+id-595203 {'from-file': {'release1/test_half_10': 31315, 'release1/train_half_10': 20884}, 'clicked': {'0': 20473, '1': 411}}
+id-595770 {'from-file': {'release1/test_half_10': 35014, 'release1/train_half_10': 21052}, 'clicked': {'0': 18941, '1': 2111}}
+id-594458 {'from-file': {'release1/test_half_10': 31569, 'release1/train_half_10': 21091}, 'clicked': {'0': 20374, '1': 717}}
+id-591432 {'from-file': {'release1/test_half_10': 1036, 'release1/train_half_10': 21231}, 'clicked': {'0': 20872, '1': 359}}
+id-596258 {'from-file': {'release1/test_half_10': 34398, 'release1/train_half_10': 21506}, 'clicked': {'0': 21128, '1': 378}}
+id-595249 {'from-file': {'release1/test_half_10': 7875, 'release1/train_half_10': 21146}, 'clicked': {'0': 20339, '1': 807}}
+id-594771 {'from-file': {'release1/test_half_10': 30257, 'release1/train_half_10': 21022}, 'clicked': {'0': 20335, '1': 687}}
+id-595021 {'from-file': {'release1/test_half_10': 7860, 'release1/train_half_10': 21143}, 'clicked': {'0': 20664, '1': 479}}
+id-596774 {'from-file': {'release1/test_half_10': 20009, 'release1/train_half_10': 15604}, 'clicked': {'0': 15022, '1': 582}}
+id-596612 {'from-file': {'release1/test_half_10': 585, 'release1/train_half_10': 18423}, 'clicked': {'0': 17726, '1': 697}}
+id-593589 {'from-file': {'release1/test_half_10': 5913, 'release1/train_half_10': 21067}, 'clicked': {'0': 20755, '1': 312}}
+id-594066 {'from-file': {'release1/test_half_10': 954, 'release1/train_half_10': 21184}, 'clicked': {'0': 20117, '1': 1067}}
+id-591223 {'from-file': {'release1/test_half_10': 876, 'release1/train_half_10': 20175}, 'clicked': {'0': 19382, '1': 793}}
+id-590857 {'from-file': {'release1/test_half_10': 16309, 'release1/train_half_10': 21162}, 'clicked': {'0': 20327, '1': 835}}
+id-595189 {'from-file': {'release1/test_half_10': 8031, 'release1/train_half_10': 21173}, 'clicked': {'0': 20519, '1': 654}}
+id-593986 {'from-file': {'release1/test_half_10': 31121, 'release1/train_half_10': 21409}, 'clicked': {'0': 20774, '1': 635}}
+id-600274 {'from-file': {'release1/test_half_11': 8728, 'release1/train_half_11': 14492}, 'clicked': {'0': 13844, '1': 648}}
+id-599117 {'from-file': {'release1/test_half_11': 2289, 'release1/train_half_11': 14307}, 'clicked': {'0': 13706, '1': 601}}
+id-600779 {'from-file': {'release1/test_half_11': 19992, 'release1/train_half_11': 14831}, 'clicked': {'0': 14051, '1': 780}}
+id-598999 {'from-file': {'release1/test_half_11': 5431, 'release1/train_half_11': 14609}, 'clicked': {'0': 14180, '1': 429}}
+id-600195 {'from-file': {'release1/test_half_11': 16312, 'release1/train_half_11': 14616}, 'clicked': {'0': 14307, '1': 309}}
+id-602173 {'from-file': {'release1/test_half_11': 16406, 'release1/train_half_11': 4498}, 'clicked': {'0': 4175, '1': 323}}
+id-596536 {'from-file': {'release1/test_half_11': 1800, 'release1/train_half_11': 14661}, 'clicked': {'0': 13555, '1': 1106}}
+id-596342 {'from-file': {'release1/test_half_11': 8298, 'release1/train_half_11': 14879}, 'clicked': {'0': 14371, '1': 508}}
+id-600956 {'from-file': {'release1/test_half_11': 10075, 'release1/train_half_11': 14787}, 'clicked': {'0': 14450, '1': 337}}
+id-599952 {'from-file': {'release1/test_half_11': 7279, 'release1/train_half_11': 14513}, 'clicked': {'0': 13566, '1': 947}}
+id-600162 {'from-file': {'release1/test_half_11': 11285, 'release1/train_half_11': 14682}, 'clicked': {'0': 14246, '1': 436}}
+id-595334 {'from-file': {'release1/test_half_11': 1658, 'release1/train_half_11': 14814}, 'clicked': {'0': 14447, '1': 367}}
+id-599387 {'from-file': {'release1/test_half_11': 2237, 'release1/train_half_11': 14852}, 'clicked': {'0': 13878, '1': 974}}
+id-601530 {'from-file': {'release1/test_half_11': 19390, 'release1/train_half_11': 11506}, 'clicked': {'0': 11213, '1': 293}}
+id-599874 {'from-file': {'release1/test_half_11': 10805, 'release1/train_half_11': 14706}, 'clicked': {'0': 14332, '1': 374}}
+id-599330 {'from-file': {'release1/test_half_11': 8417, 'release1/train_half_11': 14914}, 'clicked': {'0': 14497, '1': 417}}
+id-600892 {'from-file': {'release1/test_half_11': 19994, 'release1/train_half_11': 14598}, 'clicked': {'0': 13729, '1': 869}}
+id-599764 {'from-file': {'release1/test_half_11': 8332, 'release1/train_half_11': 14611}, 'clicked': {'0': 14313, '1': 298}}
+id-599594 {'from-file': {'release1/test_half_11': 7728, 'release1/train_half_11': 14628}, 'clicked': {'0': 13333, '1': 1295}}
+id-595900 {'from-file': {'release1/test_half_11': 22014, 'release1/train_half_11': 12997, 'release1/train_half_12': 1290}, 'clicked': {'0': 13658, '1': 629}}
+id-602469 {'from-file': {'release1/test_half_11': 22207, 'release1/train_half_11': 1318, 'release1/train_half_12': 12023}, 'clicked': {'0': 12792, '1': 549}}
+id-600418 {'from-file': {'release1/test_half_11': 12847, 'release1/train_half_11': 14611}, 'clicked': {'0': 13954, '1': 657}}
+id-598812 {'from-file': {'release1/test_half_11': 1221, 'release1/train_half_11': 14676}, 'clicked': {'0': 13722, '1': 954}}
+id-601863 {'from-file': {'release1/test_half_11': 22173, 'release1/train_half_11': 7305, 'release1/train_half_12': 2800}, 'clicked': {'0': 9545, '1': 560}}
+id-601005 {'from-file': {'release1/test_half_11': 12920, 'release1/train_half_11': 14460}, 'clicked': {'0': 14108, '1': 352}}
+id-600448 {'from-file': {'release1/test_half_11': 4400, 'release1/train_half_11': 14576}, 'clicked': {'0': 14147, '1': 429}}
+id-601828 {'from-file': {'release1/test_half_11': 21905, 'release1/train_half_11': 7761, 'release1/train_half_12': 2832}, 'clicked': {'0': 10407, '1': 186}}
+id-598857 {'from-file': {'release1/test_half_11': 1946, 'release1/train_half_11': 14420}, 'clicked': {'0': 13790, '1': 630}}
+id-600065 {'from-file': {'release1/test_half_11': 8610, 'release1/train_half_11': 14735}, 'clicked': {'0': 14094, '1': 641}}
+id-596437 {'from-file': {'release1/test_half_11': 21909, 'release1/train_half_11': 14471}, 'clicked': {'0': 13906, '1': 565}}
+id-600995 {'from-file': {'release1/test_half_11': 15530, 'release1/train_half_11': 14411}, 'clicked': {'0': 13520, '1': 891}}
+id-601515 {'from-file': {'release1/test_half_11': 19951, 'release1/train_half_11': 10958}, 'clicked': {'0': 10669, '1': 289}}
+id-600107 {'from-file': {'release1/test_half_11': 5357, 'release1/train_half_11': 14533}, 'clicked': {'0': 14439, '1': 94}}
+id-599317 {'from-file': {'release1/test_half_11': 22089, 'release1/train_half_11': 14737}, 'clicked': {'0': 14305, '1': 432}}
+id-601165 {'from-file': {'release1/test_half_11': 7575, 'release1/train_half_11': 14615}, 'clicked': {'0': 14115, '1': 500}}
+id-601314 {'from-file': {'release1/test_half_11': 22249, 'release1/train_half_11': 1386, 'release1/train_half_12': 3398}, 'clicked': {'0': 4676, '1': 108}}
+id-596110 {'from-file': {'release1/test_half_11': 22188, 'release1/train_half_11': 12284, 'release1/train_half_12': 2006}, 'clicked': {'0': 13784, '1': 506}}
+id-596805 {'from-file': {'release1/test_half_11': 7853, 'release1/train_half_11': 14612}, 'clicked': {'0': 14004, '1': 608}}
+id-594634 {'from-file': {'release1/test_half_11': 14480, 'release1/train_half_11': 14659}, 'clicked': {'0': 14235, '1': 424}}
+id-605065 {'from-file': {'release1/test_half_12': 18774, 'release1/train_half_12': 17417}, 'clicked': {'0': 16790, '1': 627}}
+id-604559 {'from-file': {'release1/test_half_12': 5107, 'release1/train_half_12': 17614}, 'clicked': {'0': 17088, '1': 526}}
+id-604699 {'from-file': {'release1/test_half_12': 16448, 'release1/train_half_12': 17589}, 'clicked': {'0': 17074, '1': 515}}
+id-605007 {'from-file': {'release1/test_half_12': 29749, 'release1/train_half_12': 17819}, 'clicked': {'0': 16499, '1': 1320}}
+id-605369 {'from-file': {'release1/test_half_12': 29672, 'release1/train_half_12': 17594}, 'clicked': {'0': 17051, '1': 543}}
+id-605191 {'from-file': {'release1/test_half_12': 29912, 'release1/train_half_12': 17507}, 'clicked': {'0': 16913, '1': 594}}
+id-606577 {'from-file': {'release1/test_half_12': 29835, 'release1/train_half_12': 17613}, 'clicked': {'0': 16816, '1': 797}}
+id-607090 {'from-file': {'release1/test_half_12': 30527, 'release1/train_half_12': 3648, 'release1/train_half_13': 3182}, 'clicked': {'0': 6581, '1': 249}}
+id-604721 {'from-file': {'release1/test_half_12': 7972, 'release1/train_half_12': 17350}, 'clicked': {'0': 16515, '1': 835}}
+id-606178 {'from-file': {'release1/test_half_12': 15736, 'release1/train_half_12': 17549}, 'clicked': {'0': 16986, '1': 563}}
+id-606110 {'from-file': {'release1/test_half_12': 26868, 'release1/train_half_12': 17474}, 'clicked': {'0': 16320, '1': 1154}}
+id-605344 {'from-file': {'release1/test_half_12': 30308, 'release1/train_half_12': 17662}, 'clicked': {'0': 16526, '1': 1136}}
+id-605518 {'from-file': {'release1/test_half_12': 30582, 'release1/test_half_13': 22990, 'release1/train_half_12': 17773, 'release1/train_half_13': 14346, 'release1/train_half_14': 149}, 'clicked': {'0': 31076, '1': 1192}}
+id-606122 {'from-file': {'release1/test_half_12': 5679, 'release1/train_half_12': 17646}, 'clicked': {'0': 17228, '1': 418}}
+id-606689 {'from-file': {'release1/test_half_12': 25213, 'release1/train_half_12': 13988}, 'clicked': {'0': 13091, '1': 897}}
+id-606668 {'from-file': {'release1/test_half_12': 25777, 'release1/train_half_12': 16963}, 'clicked': {'0': 15000, '1': 1963}}
+id-604495 {'from-file': {'release1/test_half_12': 15164, 'release1/train_half_12': 17526}, 'clicked': {'0': 17058, '1': 468}}
+id-607446 {'from-file': {'release1/test_half_12': 30413, 'release1/train_half_12': 6669, 'release1/train_half_13': 2229}, 'clicked': {'0': 8837, '1': 61}}
+id-605180 {'from-file': {'release1/test_half_12': 31016, 'release1/test_half_13': 22317, 'release1/train_half_12': 1519, 'release1/train_half_13': 14492}, 'clicked': {'0': 15472, '1': 539}}
+id-604494 {'from-file': {'release1/test_half_12': 14805, 'release1/train_half_12': 17364}, 'clicked': {'0': 16593, '1': 771}}
+id-605159 {'from-file': {'release1/test_half_12': 29894, 'release1/train_half_12': 17451}, 'clicked': {'0': 16727, '1': 724}}
+id-601075 {'from-file': {'release1/test_half_12': 14820, 'release1/train_half_12': 17408}, 'clicked': {'0': 16338, '1': 1070}}
+id-607092 {'from-file': {'release1/test_half_12': 30730, 'release1/train_half_12': 11694, 'release1/train_half_13': 1395}, 'clicked': {'0': 12835, '1': 254}}
+id-596531 {'from-file': {'release1/test_half_12': 7032, 'release1/train_half_12': 17549}, 'clicked': {'0': 17386, '1': 163}}
+id-606658 {'from-file': {'release1/test_half_12': 29515, 'release1/train_half_12': 14701}, 'clicked': {'0': 14375, '1': 326}}
+id-606187 {'from-file': {'release1/test_half_12': 29616, 'release1/train_half_12': 17533}, 'clicked': {'0': 17299, '1': 234}}
+id-605961 {'from-file': {'release1/test_half_12': 30968, 'release1/test_half_13': 9341, 'release1/train_half_12': 2536, 'release1/train_half_13': 14342}, 'clicked': {'0': 16568, '1': 310}}
+id-605378 {'from-file': {'release1/test_half_12': 30763, 'release1/test_half_13': 23126, 'release1/train_half_12': 17674, 'release1/train_half_13': 14619, 'release1/train_half_14': 16}, 'clicked': {'0': 31018, '1': 1291}}
+id-600430 {'from-file': {'release1/test_half_12': 30755, 'release1/test_half_13': 22441, 'release1/train_half_12': 17585, 'release1/train_half_13': 14524}, 'clicked': {'0': 31132, '1': 977}}
+id-604230 {'from-file': {'release1/test_half_12': 7330, 'release1/train_half_12': 17776}, 'clicked': {'0': 16881, '1': 895}}
+id-607161 {'from-file': {'release1/test_half_12': 30993, 'release1/test_half_13': 22084, 'release1/train_half_12': 9689, 'release1/train_half_13': 14371}, 'clicked': {'0': 23353, '1': 707}}
+id-605854 {'from-file': {'release1/test_half_12': 30565, 'release1/train_half_12': 17711, 'release1/train_half_13': 1401}, 'clicked': {'0': 18221, '1': 891}}
+id-603862 {'from-file': {'release1/test_half_12': 7223, 'release1/train_half_12': 17541}, 'clicked': {'0': 17312, '1': 229}}
+id-599472 {'from-file': {'release1/test_half_12': 16449, 'release1/train_half_12': 17611}, 'clicked': {'0': 17035, '1': 576}}
+id-604639 {'from-file': {'release1/test_half_12': 16275, 'release1/train_half_12': 17551}, 'clicked': {'0': 16752, '1': 799}}
+id-605247 {'from-file': {'release1/test_half_12': 29561, 'release1/train_half_12': 17506}, 'clicked': {'0': 16828, '1': 678}}
+id-606231 {'from-file': {'release1/test_half_12': 30751, 'release1/train_half_12': 6488, 'release1/train_half_13': 4271}, 'clicked': {'0': 10152, '1': 607}}
+id-606446 {'from-file': {'release1/test_half_12': 20455, 'release1/train_half_12': 17684}, 'clicked': {'0': 17285, '1': 399}}
+id-598643 {'from-file': {'release1/test_half_12': 7145, 'release1/train_half_12': 17555}, 'clicked': {'0': 17416, '1': 139}}
+id-604618 {'from-file': {'release1/test_half_12': 16471, 'release1/train_half_12': 17470}, 'clicked': {'0': 17132, '1': 338}}
+id-605759 {'from-file': {'release1/test_half_13': 21855, 'release1/train_half_13': 14460}, 'clicked': {'0': 13793, '1': 667}}
+id-612272 {'from-file': {'release1/test_half_13': 2962, 'release1/train_half_13': 8000}, 'clicked': {'0': 7681, '1': 319}}
+id-611864 {'from-file': {'release1/test_half_13': 5312, 'release1/train_half_13': 13151}, 'clicked': {'0': 12854, '1': 297}}
+id-609373 {'from-file': {'release1/test_half_13': 9205, 'release1/train_half_13': 14463}, 'clicked': {'0': 14040, '1': 423}}
+id-609496 {'from-file': {'release1/test_half_13': 10847, 'release1/train_half_13': 14446}, 'clicked': {'0': 14027, '1': 419}}
+id-611479 {'from-file': {'release1/test_half_13': 22822, 'release1/train_half_13': 14161, 'release1/train_half_14': 675}, 'clicked': {'0': 13977, '1': 859}}
+id-610267 {'from-file': {'release1/test_half_13': 13670, 'release1/train_half_13': 14502}, 'clicked': {'0': 13828, '1': 674}}
+id-611775 {'from-file': {'release1/test_half_13': 22906, 'release1/train_half_13': 4148, 'release1/train_half_14': 14946}, 'clicked': {'0': 18625, '1': 469}}
+id-605392 {'from-file': {'release1/test_half_13': 21707, 'release1/train_half_13': 14565}, 'clicked': {'0': 14358, '1': 207}}
+id-610464 {'from-file': {'release1/test_half_13': 12853, 'release1/train_half_13': 14302}, 'clicked': {'0': 13676, '1': 626}}
+id-611142 {'from-file': {'release1/test_half_13': 12854, 'release1/train_half_13': 14417}, 'clicked': {'0': 14194, '1': 223}}
+id-611597 {'from-file': {'release1/test_half_13': 13606, 'release1/train_half_13': 14249}, 'clicked': {'0': 13863, '1': 386}}
+id-604964 {'from-file': {'release1/test_half_13': 23154, 'release1/train_half_13': 14392, 'release1/train_half_14': 343}, 'clicked': {'0': 14370, '1': 365}}
+id-609376 {'from-file': {'release1/test_half_13': 22113, 'release1/train_half_13': 14347}, 'clicked': {'0': 14108, '1': 239}}
+id-595141 {'from-file': {'release1/test_half_13': 21696, 'release1/train_half_13': 14628}, 'clicked': {'0': 14012, '1': 616}}
+id-611729 {'from-file': {'release1/test_half_13': 21473, 'release1/train_half_13': 14484}, 'clicked': {'0': 13494, '1': 990}}
+id-610233 {'from-file': {'release1/test_half_13': 23148, 'release1/train_half_13': 14405, 'release1/train_half_14': 266}, 'clicked': {'0': 13799, '1': 872}}
+id-608992 {'from-file': {'release1/test_half_13': 8301, 'release1/train_half_13': 14557}, 'clicked': {'0': 14099, '1': 458}}
+id-611932 {'from-file': {'release1/test_half_13': 22805, 'release1/train_half_13': 11764, 'release1/train_half_14': 14166}, 'clicked': {'0': 24739, '1': 1191}}
+id-606812 {'from-file': {'release1/test_half_13': 22750, 'release1/train_half_13': 14534, 'release1/train_half_14': 554}, 'clicked': {'0': 14735, '1': 353}}
+id-609474 {'from-file': {'release1/test_half_13': 10287, 'release1/train_half_13': 14346}, 'clicked': {'0': 14130, '1': 216}}
+id-605672 {'from-file': {'release1/test_half_13': 22866, 'release1/train_half_13': 14496, 'release1/train_half_14': 243}, 'clicked': {'0': 14324, '1': 415}}
+id-606696 {'from-file': {'release1/test_half_13': 23172, 'release1/train_half_13': 14547, 'release1/train_half_14': 619}, 'clicked': {'0': 14682, '1': 484}}
+id-610780 {'from-file': {'release1/test_half_13': 11014, 'release1/train_half_13': 14386}, 'clicked': {'0': 14219, '1': 167}}
+id-610505 {'from-file': {'release1/test_half_13': 23220, 'release1/train_half_13': 14480, 'release1/train_half_14': 1507}, 'clicked': {'0': 14599, '1': 1388}}
+id-610266 {'from-file': {'release1/test_half_13': 9080, 'release1/train_half_13': 14465}, 'clicked': {'0': 13995, '1': 470}}
+id-610484 {'from-file': {'release1/test_half_13': 21444, 'release1/train_half_13': 14545}, 'clicked': {'0': 13845, '1': 700}}
+id-611429 {'from-file': {'release1/test_half_13': 17784, 'release1/train_half_13': 14368}, 'clicked': {'0': 13647, '1': 721}}
+id-608612 {'from-file': {'release1/test_half_13': 8855, 'release1/train_half_13': 14267}, 'clicked': {'0': 14072, '1': 195}}
+id-611482 {'from-file': {'release1/test_half_13': 23135, 'release1/train_half_13': 14395, 'release1/train_half_14': 221}, 'clicked': {'0': 12942, '1': 1674}}
+id-609786 {'from-file': {'release1/test_half_13': 21516, 'release1/train_half_13': 14524}, 'clicked': {'0': 14034, '1': 490}}
+id-609871 {'from-file': {'release1/test_half_13': 8207, 'release1/train_half_13': 14415}, 'clicked': {'0': 13757, '1': 658}}
+id-609048 {'from-file': {'release1/test_half_13': 21571, 'release1/train_half_13': 14372}, 'clicked': {'0': 14086, '1': 286}}
+id-609203 {'from-file': {'release1/test_half_13': 8068, 'release1/train_half_13': 14552}, 'clicked': {'0': 14301, '1': 251}}
+id-611740 {'from-file': {'release1/test_half_13': 18346, 'release1/train_half_13': 14519}, 'clicked': {'0': 14243, '1': 276}}
+id-606900 {'from-file': {'release1/test_half_13': 22948, 'release1/train_half_13': 14487, 'release1/train_half_14': 373}, 'clicked': {'0': 14238, '1': 622}}
+id-610351 {'from-file': {'release1/test_half_14': 29958, 'release1/train_half_14': 16796}, 'clicked': {'0': 16386, '1': 410}}
+id-606079 {'from-file': {'release1/test_half_14': 25455, 'release1/train_half_14': 16908}, 'clicked': {'0': 16714, '1': 194}}
+id-610758 {'from-file': {'release1/test_half_14': 17412, 'release1/train_half_14': 16536}, 'clicked': {'0': 16358, '1': 178}}
+id-614153 {'from-file': {'release1/test_half_14': 23460, 'release1/train_half_14': 2814}, 'clicked': {'0': 2726, '1': 88}}
+id-613856 {'from-file': {'release1/test_half_14': 23287, 'release1/train_half_14': 12393}, 'clicked': {'0': 12056, '1': 337}}
+id-611585 {'from-file': {'release1/test_half_14': 25093, 'release1/train_half_14': 16747}, 'clicked': {'0': 16434, '1': 313}}
+id-613404 {'from-file': {'release1/test_half_14': 29940, 'release1/train_half_14': 16774}, 'clicked': {'0': 16183, '1': 591}}
+id-613242 {'from-file': {'release1/test_half_14': 13725, 'release1/train_half_14': 16840}, 'clicked': {'0': 16370, '1': 470}}
+id-605423 {'from-file': {'release1/test_half_14': 29797, 'release1/train_half_14': 16686}, 'clicked': {'0': 16042, '1': 644}}
+id-613689 {'from-file': {'release1/test_half_14': 18133, 'release1/train_half_14': 16596}, 'clicked': {'0': 15979, '1': 617}}
+id-606207 {'from-file': {'release1/test_half_14': 29891, 'release1/train_half_14': 16732}, 'clicked': {'0': 16200, '1': 532}}
+id-613546 {'from-file': {'release1/test_half_14': 23805, 'release1/train_half_14': 16724}, 'clicked': {'0': 16375, '1': 349}}
+id-613505 {'from-file': {'release1/test_half_14': 30130, 'release1/train_half_14': 16755}, 'clicked': {'0': 16079, '1': 676}}
+id-600025 {'from-file': {'release1/test_half_14': 30084, 'release1/train_half_14': 16734}, 'clicked': {'0': 16159, '1': 575}}
+id-612378 {'from-file': {'release1/test_half_14': 30252, 'release1/train_half_14': 16667}, 'clicked': {'0': 15438, '1': 1229}}
+id-614050 {'from-file': {'release1/test_half_14': 29985, 'release1/train_half_14': 8324}, 'clicked': {'0': 8161, '1': 163}}
+id-613241 {'from-file': {'release1/test_half_14': 14511, 'release1/train_half_14': 16528}, 'clicked': {'0': 15419, '1': 1109}}
+id-614024 {'from-file': {'release1/test_half_14': 23554, 'release1/train_half_14': 10371}, 'clicked': {'0': 10064, '1': 307}}
+id-613912 {'from-file': {'release1/test_half_14': 25899, 'release1/train_half_14': 16162}, 'clicked': {'0': 15234, '1': 928}}
+id-596821 {'from-file': {'release1/test_half_14': 30080, 'release1/train_half_14': 16711}, 'clicked': {'0': 16110, '1': 601}}
+id-584027 {'from-file': {'release1/test_half_8': 42477, 'release1/test_half_9': 1625, 'release1/train_half_8': 2488, 'release1/train_half_9': 18187}, 'clicked': {'0': 19743, '1': 932}}
+id-588925 {'from-file': {'release1/test_half_8': 39266, 'release1/train_half_8': 8025}, 'clicked': {'0': 7863, '1': 162}}
+id-588576 {'from-file': {'release1/test_half_8': 41338, 'release1/train_half_8': 21514}, 'clicked': {'0': 21247, '1': 267}}
+id-584408 {'from-file': {'release1/test_half_8': 42854, 'release1/test_half_9': 1471, 'release1/train_half_8': 2280, 'release1/train_half_9': 18166}, 'clicked': {'0': 19635, '1': 811}}
+id-588738 {'from-file': {'release1/test_half_8': 42217, 'release1/train_half_8': 14172, 'release1/train_half_9': 596}, 'clicked': {'0': 14413, '1': 355}}
+id-589084 {'from-file': {'release1/test_half_8': 22446, 'release1/train_half_8': 5046}, 'clicked': {'0': 4983, '1': 63}}
+id-580489 {'from-file': {'release1/test_half_8': 7643, 'release1/train_full_7': 33132, 'release1/train_half_8': 27492}, 'clicked': {'0': 57177, '1': 3447}}
+id-588486 {'from-file': {'release1/test_half_8': 40828, 'release1/train_half_8': 24925}, 'clicked': {'0': 23290, '1': 1635}}
+id-583936 {'from-file': {'release1/test_half_8': 42957, 'release1/train_full_7': 15711, 'release1/train_half_8': 27385, 'release1/train_half_9': 5877}, 'clicked': {'0': 47060, '1': 1913}}
+id-588235 {'from-file': {'release1/test_half_8': 40895, 'release1/train_half_8': 26542}, 'clicked': {'0': 25807, '1': 735}}
+id-588171 {'from-file': {'release1/test_half_8': 15465, 'release1/train_full_7': 16713, 'release1/train_half_8': 27685}, 'clicked': {'0': 43494, '1': 904}}
+id-584998 {'from-file': {'release1/test_half_8': 42787, 'release1/train_full_7': 8175, 'release1/train_half_8': 27333, 'release1/train_half_9': 16038}, 'clicked': {'0': 48797, '1': 2749}}
+id-588082 {'from-file': {'release1/test_half_8': 15048, 'release1/train_full_7': 18752, 'release1/train_half_8': 27911}, 'clicked': {'0': 45843, '1': 820}}
+id-588233 {'from-file': {'release1/test_half_8': 23057, 'release1/train_full_7': 12656, 'release1/train_half_8': 27344}, 'clicked': {'0': 38212, '1': 1788}}
+id-579985 {'from-file': {'release1/test_half_8': 7433, 'release1/train_full_7': 31056, 'release1/train_half_8': 27348}, 'clicked': {'0': 56971, '1': 1433}}
+id-587956 {'from-file': {'release1/test_half_8': 14848, 'release1/train_full_7': 25198, 'release1/train_half_8': 27152}, 'clicked': {'0': 51095, '1': 1255}}
+id-588119 {'from-file': {'release1/test_half_8': 24345, 'release1/train_full_7': 17262, 'release1/train_half_8': 27501}, 'clicked': {'0': 42358, '1': 2405}}
+id-588460 {'from-file': {'release1/test_half_8': 42161, 'release1/train_half_8': 19617, 'release1/train_half_9': 514}, 'clicked': {'0': 19128, '1': 1003}}
+id-585686 {'from-file': {'release1/test_half_8': 43009, 'release1/train_full_7': 6070, 'release1/train_half_8': 27508, 'release1/train_half_9': 4148}, 'clicked': {'0': 37163, '1': 563}}
+id-585184 {'from-file': {'release1/test_half_8': 42452, 'release1/train_full_7': 3719, 'release1/train_half_8': 27616, 'release1/train_half_9': 15935}, 'clicked': {'0': 44996, '1': 2274}}
+id-581413 {'from-file': {'release1/test_half_8': 42890, 'release1/test_half_9': 9792, 'release1/train_half_8': 3058, 'release1/train_half_9': 18318}, 'clicked': {'0': 20970, '1': 406}}
+id-588270 {'from-file': {'release1/test_half_8': 25967, 'release1/train_full_7': 8671, 'release1/train_half_8': 27515}, 'clicked': {'0': 34546, '1': 1640}}
+id-583972 {'from-file': {'release1/test_half_8': 22391, 'release1/train_full_7': 24109, 'release1/train_half_8': 27399}, 'clicked': {'0': 50367, '1': 1141}}
+id-588379 {'from-file': {'release1/test_half_8': 33962, 'release1/train_full_7': 5023, 'release1/train_half_8': 27767}, 'clicked': {'0': 31518, '1': 1272}}
+id-588386 {'from-file': {'release1/test_half_8': 27270, 'release1/train_full_7': 4201, 'release1/train_half_8': 27593}, 'clicked': {'0': 30604, '1': 1190}}
+id-588382 {'from-file': {'release1/test_half_9': 21494, 'release1/train_half_9': 18347}, 'clicked': {'0': 18166, '1': 181}}
+id-584145 {'from-file': {'release1/test_half_9': 6527, 'release1/train_half_9': 18325}, 'clicked': {'0': 18081, '1': 244}}
+id-592444 {'from-file': {'release1/test_half_9': 34313, 'release1/train_half_9': 12311}, 'clicked': {'0': 11951, '1': 360}}
+id-592922 {'from-file': {'release1/test_half_9': 36315, 'release1/train_half_10': 1968, 'release1/train_half_9': 5181}, 'clicked': {'0': 6962, '1': 187}}
+id-590824 {'from-file': {'release1/test_half_9': 20577, 'release1/train_half_9': 18200}, 'clicked': {'0': 17292, '1': 908}}
+id-592124 {'from-file': {'release1/test_half_9': 36457, 'release1/train_half_10': 4, 'release1/train_half_9': 12333}, 'clicked': {'0': 11747, '1': 590}}
+id-585006 {'from-file': {'release1/test_half_9': 22361, 'release1/train_half_9': 18181}, 'clicked': {'0': 17984, '1': 197}}
+id-591060 {'from-file': {'release1/test_half_9': 21935, 'release1/train_half_9': 12617}, 'clicked': {'0': 12399, '1': 218}}
+id-591274 {'from-file': {'release1/test_half_9': 23800, 'release1/train_half_9': 18376}, 'clicked': {'0': 17985, '1': 391}}
+id-590404 {'from-file': {'release1/test_half_9': 36347, 'release1/train_half_10': 16979, 'release1/train_half_9': 610}, 'clicked': {'0': 16903, '1': 686}}
+id-590669 {'from-file': {'release1/test_half_9': 6330, 'release1/train_half_9': 18262}, 'clicked': {'0': 17899, '1': 363}}
+id-591692 {'from-file': {'release1/test_half_9': 24251, 'release1/train_half_9': 18581}, 'clicked': {'0': 17967, '1': 614}}
+id-590405 {'from-file': {'release1/test_half_9': 14006, 'release1/train_half_9': 18352}, 'clicked': {'0': 17971, '1': 381}}
+id-591728 {'from-file': {'release1/test_half_9': 33686, 'release1/train_half_9': 17963}, 'clicked': {'0': 16155, '1': 1808}}
+id-591319 {'from-file': {'release1/test_half_9': 22167, 'release1/train_half_9': 18101}, 'clicked': {'0': 17655, '1': 446}}
+id-590365 {'from-file': {'release1/test_half_9': 14101, 'release1/train_half_9': 18275}, 'clicked': {'0': 18052, '1': 223}}
+id-590298 {'from-file': {'release1/test_half_9': 16000, 'release1/train_half_9': 18372}, 'clicked': {'0': 17975, '1': 397}}
+id-590958 {'from-file': {'release1/test_half_9': 21379, 'release1/train_half_9': 17960}, 'clicked': {'0': 17322, '1': 638}}
+id-591573 {'from-file': {'release1/test_half_9': 18394, 'release1/train_half_9': 18619}, 'clicked': {'0': 17576, '1': 1043}}
+id-590806 {'from-file': {'release1/test_half_9': 24886, 'release1/train_half_9': 18336}, 'clicked': {'0': 17654, '1': 682}}
+id-589906 {'from-file': {'release1/test_half_9': 12269, 'release1/train_half_9': 18578}, 'clicked': {'0': 17635, '1': 943}}
+id-590761 {'from-file': {'release1/test_half_9': 22354, 'release1/train_half_9': 18317}, 'clicked': {'0': 17705, '1': 612}}
+id-591177 {'from-file': {'release1/test_half_9': 6182, 'release1/train_half_9': 18369}, 'clicked': {'0': 17878, '1': 491}}
+id-591813 {'from-file': {'release1/test_half_9': 22552, 'release1/train_half_9': 15532}, 'clicked': {'0': 15010, '1': 522}}
+id-590390 {'from-file': {'release1/test_half_9': 21836, 'release1/train_half_9': 18529}, 'clicked': {'0': 17101, '1': 1428}}
+id-590187 {'from-file': {'release1/test_half_9': 5231, 'release1/train_half_9': 18378}, 'clicked': {'0': 17787, '1': 591}}
+id-592156 {'from-file': {'release1/test_half_9': 34288, 'release1/train_half_9': 16199}, 'clicked': {'0': 15155, '1': 1044}}
+id-590344 {'from-file': {'release1/test_half_9': 5120, 'release1/train_half_9': 18306}, 'clicked': {'0': 17576, '1': 730}}
+id-576772 {'from-file': {'release1/test_half_9': 21512, 'release1/train_half_9': 18372}, 'clicked': {'0': 18015, '1': 357}}
+id-593288 {'from-file': {'release1/test_half_9': 34310, 'release1/train_half_9': 439}, 'clicked': {'0': 428, '1': 11}}
+id-589489 {'from-file': {'release1/test_half_9': 1210, 'release1/train_half_9': 18357}, 'clicked': {'0': 17906, '1': 451}}
+id-592761 {'from-file': {'release1/test_half_9': 22984, 'release1/train_half_9': 3865}, 'clicked': {'0': 3831, '1': 34}}
+id-591039 {'from-file': {'release1/test_half_9': 34357, 'release1/train_half_9': 3350}, 'clicked': {'0': 3263, '1': 87}}
+id-584825 {'from-file': {'release1/test_half_9': 15813, 'release1/train_half_9': 18294}, 'clicked': {'0': 17969, '1': 325}}
+id-584552 {'from-file': {'release1/test_half_9': 14012, 'release1/train_half_9': 18354}, 'clicked': {'0': 17713, '1': 641}}
+id-560620 {'from-file': {'release1/train_full_0': 6706}, 'clicked': {'0': 6563, '1': 143}}
+id-565648 {'from-file': {'release1/train_full_0': 54096}, 'clicked': {'0': 52935, '1': 1161}}
+id-563115 {'from-file': {'release1/train_full_0': 49145}, 'clicked': {'0': 47005, '1': 2140}}
+id-552077 {'from-file': {'release1/train_full_0': 1732}, 'clicked': {'0': 1685, '1': 47}}
+id-564335 {'from-file': {'release1/train_full_0': 38512}, 'clicked': {'0': 37906, '1': 606}}
+id-565589 {'from-file': {'release1/train_full_0': 45249}, 'clicked': {'0': 43467, '1': 1782}}
+id-563938 {'from-file': {'release1/train_full_0': 5300}, 'clicked': {'0': 5136, '1': 164}}
+id-560290 {'from-file': {'release1/train_full_0': 54454}, 'clicked': {'0': 53335, '1': 1119}}
+id-563643 {'from-file': {'release1/train_full_0': 70320, 'release1/train_full_1': 26561}, 'clicked': {'0': 93353, '1': 3528}}
+id-565822 {'from-file': {'release1/train_full_0': 69912, 'release1/train_full_1': 18332}, 'clicked': {'0': 84376, '1': 3868}}
+id-563787 {'from-file': {'release1/train_full_0': 1768}, 'clicked': {'0': 1747, '1': 21}}
+id-555528 {'from-file': {'release1/train_full_0': 54016}, 'clicked': {'0': 53002, '1': 1014}}
+id-565364 {'from-file': {'release1/train_full_0': 17710}, 'clicked': {'0': 17253, '1': 457}}
+id-559855 {'from-file': {'release1/train_full_0': 54812}, 'clicked': {'0': 53580, '1': 1232}}
+id-560518 {'from-file': {'release1/train_full_0': 46330}, 'clicked': {'0': 45780, '1': 550}}
+id-565561 {'from-file': {'release1/train_full_0': 22703}, 'clicked': {'0': 21951, '1': 752}}
+id-564604 {'from-file': {'release1/train_full_0': 6597}, 'clicked': {'0': 6400, '1': 197}}
+id-563846 {'from-file': {'release1/train_full_0': 70323, 'release1/train_full_1': 26653}, 'clicked': {'0': 93395, '1': 3581}}
+id-563582 {'from-file': {'release1/train_full_0': 51281}, 'clicked': {'0': 49505, '1': 1776}}
+id-565533 {'from-file': {'release1/train_full_0': 51033}, 'clicked': {'0': 48967, '1': 2066}}
+id-565479 {'from-file': {'release1/train_full_0': 50629}, 'clicked': {'0': 49021, '1': 1608}}
+id-559744 {'from-file': {'release1/train_full_0': 1948}, 'clicked': {'0': 1868, '1': 80}}
+id-565515 {'from-file': {'release1/train_full_0': 54793}, 'clicked': {'0': 52355, '1': 2438}}
+id-564418 {'from-file': {'release1/train_full_0': 70324, 'release1/train_full_1': 26174}, 'clicked': {'0': 94954, '1': 1544}}
+id-565747 {'from-file': {'release1/train_full_0': 38045}, 'clicked': {'0': 36124, '1': 1921}}
+id-555224 {'from-file': {'release1/train_full_0': 55820}, 'clicked': {'0': 53847, '1': 1973}}
+id-565930 {'from-file': {'release1/train_full_0': 45866}, 'clicked': {'0': 44607, '1': 1259}}
+id-566013 {'from-file': {'release1/train_full_0': 42044}, 'clicked': {'0': 40983, '1': 1061}}
+id-566022 {'from-file': {'release1/train_full_0': 49917}, 'clicked': {'0': 48953, '1': 964}}
+id-566092 {'from-file': {'release1/train_full_0': 16566}, 'clicked': {'0': 16073, '1': 493}}
+id-560805 {'from-file': {'release1/train_full_0': 37406, 'release1/train_full_1': 39283}, 'clicked': {'0': 73245, '1': 3444}}
+id-564371 {'from-file': {'release1/train_full_0': 34479, 'release1/train_full_1': 42536}, 'clicked': {'0': 74230, '1': 2785}}
+id-562265 {'from-file': {'release1/train_full_0': 33550, 'release1/train_full_1': 32953}, 'clicked': {'0': 65356, '1': 1147}}
+id-565980 {'from-file': {'release1/train_full_0': 4523}, 'clicked': {'0': 4479, '1': 44}}
+id-566431 {'from-file': {'release1/train_full_0': 29983, 'release1/train_full_1': 47565}, 'clicked': {'0': 72184, '1': 5364}}
+id-566439 {'from-file': {'release1/train_full_0': 29084, 'release1/train_full_1': 28227}, 'clicked': {'0': 56766, '1': 545}}
+id-559833 {'from-file': {'release1/train_full_0': 24679, 'release1/train_full_1': 55366}, 'clicked': {'0': 77529, '1': 2516}}
+id-566541 {'from-file': {'release1/train_full_0': 24462, 'release1/train_full_1': 17573}, 'clicked': {'0': 41103, '1': 932}}
+id-562374 {'from-file': {'release1/train_full_0': 24029, 'release1/train_full_1': 55576}, 'clicked': {'0': 76859, '1': 2746}}
+id-566587 {'from-file': {'release1/train_full_0': 22950, 'release1/train_full_1': 66219}, 'clicked': {'0': 82041, '1': 7128}}
+id-566478 {'from-file': {'release1/train_full_0': 22650, 'release1/train_full_1': 55408}, 'clicked': {'0': 73777, '1': 4281}}
+id-566573 {'from-file': {'release1/train_full_0': 22158, 'release1/train_full_1': 54428}, 'clicked': {'0': 74233, '1': 2353}}
+id-566602 {'from-file': {'release1/train_full_0': 19995, 'release1/train_full_1': 63436}, 'clicked': {'0': 80837, '1': 2594}}
+id-562637 {'from-file': {'release1/train_full_0': 19324, 'release1/train_full_1': 67862}, 'clicked': {'0': 85281, '1': 1905}}
+id-566631 {'from-file': {'release1/train_full_0': 19025, 'release1/train_full_1': 48286}, 'clicked': {'0': 65829, '1': 1482}}
+id-566689 {'from-file': {'release1/train_full_0': 15916, 'release1/train_full_1': 65331}, 'clicked': {'0': 78107, '1': 3140}}
+id-566726 {'from-file': {'release1/train_full_0': 13388, 'release1/train_full_1': 48075}, 'clicked': {'0': 58789, '1': 2674}}
+id-566825 {'from-file': {'release1/train_full_0': 7293, 'release1/train_full_1': 72375}, 'clicked': {'0': 75259, '1': 4409}}
+id-566838 {'from-file': {'release1/train_full_0': 4680, 'release1/train_full_1': 51192}, 'clicked': {'0': 52052, '1': 3820}}
+id-566767 {'from-file': {'release1/train_full_1': 69540}, 'clicked': {'0': 66058, '1': 3482}}
+id-563204 {'from-file': {'release1/train_full_1': 71118, 'release1/train_full_2': 5980}, 'clicked': {'0': 74197, '1': 2901}}
+id-566997 {'from-file': {'release1/train_full_1': 65328, 'release1/train_full_2': 3374}, 'clicked': {'0': 66467, '1': 2235}}
+id-567110 {'from-file': {'release1/train_full_1': 63760, 'release1/train_full_2': 3923}, 'clicked': {'0': 65162, '1': 2521}}
+id-567145 {'from-file': {'release1/train_full_1': 61706, 'release1/train_full_2': 3693}, 'clicked': {'0': 64263, '1': 1136}}
+id-567169 {'from-file': {'release1/train_full_1': 60346, 'release1/train_full_2': 11810}, 'clicked': {'0': 66647, '1': 5509}}
+id-567334 {'from-file': {'release1/train_full_1': 51259, 'release1/train_full_2': 15416}, 'clicked': {'0': 65027, '1': 1648}}
+id-490956 {'from-file': {'release1/train_full_1': 23817}, 'clicked': {'0': 22998, '1': 819}}
+id-563819 {'from-file': {'release1/train_full_1': 45282, 'release1/train_full_2': 19845}, 'clicked': {'0': 61728, '1': 3399}}
+id-563642 {'from-file': {'release1/train_full_1': 47949, 'release1/train_full_2': 21117}, 'clicked': {'0': 64443, '1': 4623}}
+id-566888 {'from-file': {'release1/train_full_1': 46585, 'release1/train_full_2': 12914}, 'clicked': {'0': 57736, '1': 1763}}
+id-567079 {'from-file': {'release1/train_full_1': 43531, 'release1/train_full_2': 13962}, 'clicked': {'0': 57098, '1': 395}}
+id-567654 {'from-file': {'release1/train_full_1': 38089, 'release1/train_full_2': 22139}, 'clicked': {'0': 59236, '1': 992}}
+id-567768 {'from-file': {'release1/train_full_1': 38087, 'release1/train_full_2': 20797}, 'clicked': {'0': 57440, '1': 1444}}
+id-560591 {'from-file': {'release1/train_full_1': 37630, 'release1/train_full_2': 27221}, 'clicked': {'0': 64009, '1': 842}}
+id-568030 {'from-file': {'release1/train_full_1': 32092, 'release1/train_full_2': 13123}, 'clicked': {'0': 44056, '1': 1159}}
+id-568045 {'from-file': {'release1/train_full_1': 31793, 'release1/train_full_2': 17496}, 'clicked': {'0': 48351, '1': 938}}
+id-568217 {'from-file': {'release1/train_full_1': 30038, 'release1/train_full_2': 12860}, 'clicked': {'0': 41496, '1': 1402}}
+id-568362 {'from-file': {'release1/train_full_1': 27480, 'release1/train_full_2': 33000}, 'clicked': {'0': 56522, '1': 3958}}
+id-568439 {'from-file': {'release1/train_full_1': 12275}, 'clicked': {'0': 11327, '1': 948}}
+id-568479 {'from-file': {'release1/train_full_1': 23259, 'release1/train_full_2': 27684}, 'clicked': {'0': 49627, '1': 1316}}
+id-568445 {'from-file': {'release1/train_full_1': 5762}, 'clicked': {'0': 5677, '1': 85}}
+id-568271 {'from-file': {'release1/train_full_1': 21923, 'release1/train_full_2': 13558}, 'clicked': {'0': 34064, '1': 1417}}
+id-568524 {'from-file': {'release1/train_full_1': 21453, 'release1/train_full_2': 20875}, 'clicked': {'0': 41393, '1': 935}}
+id-568610 {'from-file': {'release1/train_full_1': 19923, 'release1/train_full_2': 27570}, 'clicked': {'0': 46317, '1': 1176}}
+id-568538 {'from-file': {'release1/train_full_1': 19749, 'release1/train_full_2': 41530}, 'clicked': {'0': 60071, '1': 1208}}
+id-568470 {'from-file': {'release1/train_full_1': 19218, 'release1/train_full_2': 55169}, 'clicked': {'0': 73253, '1': 1134}}
+id-568669 {'from-file': {'release1/train_full_1': 17115, 'release1/train_full_2': 43921}, 'clicked': {'0': 58404, '1': 2632}}
+id-568734 {'from-file': {'release1/train_full_1': 16577, 'release1/train_full_2': 45311}, 'clicked': {'0': 58741, '1': 3147}}
+id-568901 {'from-file': {'release1/train_full_1': 12165, 'release1/train_full_2': 55238}, 'clicked': {'0': 66246, '1': 1157}}
+id-568876 {'from-file': {'release1/train_full_1': 15221, 'release1/train_full_2': 36640}, 'clicked': {'0': 46486, '1': 5375}}
+id-568710 {'from-file': {'release1/train_full_1': 14867, 'release1/train_full_2': 48215}, 'clicked': {'0': 62381, '1': 701}}
+id-568944 {'from-file': {'release1/train_full_1': 14010, 'release1/train_full_2': 38725}, 'clicked': {'0': 49924, '1': 2811}}
+id-568957 {'from-file': {'release1/train_full_1': 11679, 'release1/train_full_2': 43571}, 'clicked': {'0': 52938, '1': 2312}}
+id-568899 {'from-file': {'release1/train_full_1': 11814, 'release1/train_full_2': 48625}, 'clicked': {'0': 58292, '1': 2147}}
+id-568827 {'from-file': {'release1/train_full_1': 10951, 'release1/train_full_2': 38892}, 'clicked': {'0': 46346, '1': 3497}}
+id-568650 {'from-file': {'release1/train_full_1': 9241, 'release1/train_full_2': 50248}, 'clicked': {'0': 58333, '1': 1156}}
+id-569049 {'from-file': {'release1/train_full_1': 5147, 'release1/train_full_2': 28036}, 'clicked': {'0': 31827, '1': 1356}}
+id-560854 {'from-file': {'release1/train_full_1': 8670, 'release1/train_full_2': 49263}, 'clicked': {'0': 56222, '1': 1711}}
+id-569062 {'from-file': {'release1/train_full_1': 8291, 'release1/train_full_2': 49393}, 'clicked': {'0': 56334, '1': 1350}}
+id-564039 {'from-file': {'release1/train_full_1': 7456, 'release1/train_full_2': 56472}, 'clicked': {'0': 62697, '1': 1231}}
+id-563519 {'from-file': {'release1/train_full_1': 6025, 'release1/train_full_2': 56444}, 'clicked': {'0': 60515, '1': 1954}}
+id-569071 {'from-file': {'release1/train_full_1': 5863, 'release1/train_full_2': 50117}, 'clicked': {'0': 54540, '1': 1440}}
+id-568735 {'from-file': {'release1/train_full_1': 4938, 'release1/train_full_2': 56392}, 'clicked': {'0': 59762, '1': 1568}}
+id-569412 {'from-file': {'release1/train_full_1': 2472, 'release1/train_full_2': 49025}, 'clicked': {'0': 48125, '1': 3372}}
+id-569386 {'from-file': {'release1/train_full_2': 52352}, 'clicked': {'0': 51002, '1': 1350}}
+id-569485 {'from-file': {'release1/train_full_2': 54827}, 'clicked': {'0': 53502, '1': 1325}}
+id-569905 {'from-file': {'release1/train_full_2': 51534, 'release1/train_full_3': 3815}, 'clicked': {'0': 53682, '1': 1667}}
+id-570332 {'from-file': {'release1/train_full_2': 41709, 'release1/train_full_3': 9327}, 'clicked': {'0': 50107, '1': 929}}
+id-568131 {'from-file': {'release1/train_full_2': 36054, 'release1/train_full_3': 9307}, 'clicked': {'0': 44031, '1': 1330}}
+id-569173 {'from-file': {'release1/train_full_2': 35646, 'release1/train_full_3': 9206}, 'clicked': {'0': 44069, '1': 783}}
+id-569001 {'from-file': {'release1/train_full_2': 35628, 'release1/train_full_3': 9077}, 'clicked': {'0': 43808, '1': 897}}
+id-570611 {'from-file': {'release1/train_full_2': 34479, 'release1/train_full_3': 9350}, 'clicked': {'0': 42637, '1': 1192}}
+id-570650 {'from-file': {'release1/train_full_2': 33879, 'release1/train_full_3': 4365}, 'clicked': {'0': 36560, '1': 1684}}
+id-569270 {'from-file': {'release1/train_full_2': 29743, 'release1/train_full_3': 9176}, 'clicked': {'0': 37858, '1': 1061}}
+id-569507 {'from-file': {'release1/train_full_2': 27955, 'release1/train_full_3': 428}, 'clicked': {'0': 26852, '1': 1531}}
+id-570884 {'from-file': {'release1/train_full_2': 27919, 'release1/train_full_3': 9357}, 'clicked': {'0': 36179, '1': 1097}}
+id-571052 {'from-file': {'release1/train_full_2': 3417}, 'clicked': {'0': 3350, '1': 67}}
+id-570962 {'from-file': {'release1/train_full_2': 26360, 'release1/train_full_3': 9346}, 'clicked': {'0': 34389, '1': 1317}}
+id-568890 {'from-file': {'release1/train_full_2': 25299, 'release1/train_full_3': 9398}, 'clicked': {'0': 33852, '1': 845}}
+id-569118 {'from-file': {'release1/train_full_2': 23802, 'release1/train_full_3': 9208}, 'clicked': {'0': 32761, '1': 249}}
+id-571264 {'from-file': {'release1/train_full_2': 23192, 'release1/train_full_3': 9208}, 'clicked': {'0': 31504, '1': 896}}
+id-571362 {'from-file': {'release1/train_full_2': 22237, 'release1/train_full_3': 9269}, 'clicked': {'0': 30321, '1': 1185}}
+id-571193 {'from-file': {'release1/train_full_2': 20543, 'release1/train_full_3': 10351}, 'clicked': {'0': 28982, '1': 1912}}
+id-568437 {'from-file': {'release1/train_full_2': 20484, 'release1/train_full_3': 14297}, 'clicked': {'0': 32745, '1': 2036}}
+id-571505 {'from-file': {'release1/train_full_2': 19357, 'release1/train_full_3': 9388}, 'clicked': {'0': 27358, '1': 1387}}
+id-571050 {'from-file': {'release1/train_full_2': 18183, 'release1/train_full_3': 11301}, 'clicked': {'0': 29048, '1': 436}}
+id-571375 {'from-file': {'release1/train_full_2': 16950, 'release1/train_full_3': 4536}, 'clicked': {'0': 20900, '1': 586}}
+id-571469 {'from-file': {'release1/train_full_2': 15385, 'release1/train_full_3': 23412}, 'clicked': {'0': 36191, '1': 2606}}
+id-571624 {'from-file': {'release1/train_full_2': 15651, 'release1/train_full_3': 9156}, 'clicked': {'0': 24040, '1': 767}}
+id-571735 {'from-file': {'release1/train_full_2': 15269, 'release1/train_full_3': 9107}, 'clicked': {'0': 23164, '1': 1212}}
+id-571470 {'from-file': {'release1/train_full_2': 14886, 'release1/train_full_3': 19102}, 'clicked': {'0': 32846, '1': 1142}}
+id-571880 {'from-file': {'release1/train_full_2': 13663, 'release1/train_full_3': 23137}, 'clicked': {'0': 35750, '1': 1050}}
+id-569469 {'from-file': {'release1/train_full_2': 11500}, 'clicked': {'0': 10764, '1': 736}}
+id-571705 {'from-file': {'release1/train_full_2': 8239, 'release1/train_full_3': 14308}, 'clicked': {'0': 21587, '1': 960}}
+id-569417 {'from-file': {'release1/train_full_2': 11663, 'release1/train_full_3': 22848}, 'clicked': {'0': 32090, '1': 2421}}
+id-571956 {'from-file': {'release1/train_full_2': 11141, 'release1/train_full_3': 14199}, 'clicked': {'0': 25016, '1': 324}}
+id-571679 {'from-file': {'release1/train_full_2': 10518, 'release1/train_full_3': 19233}, 'clicked': {'0': 29024, '1': 727}}
+id-572194 {'from-file': {'release1/train_full_2': 9896, 'release1/train_full_3': 12945}, 'clicked': {'0': 22027, '1': 814}}
+id-572207 {'from-file': {'release1/train_full_2': 9607, 'release1/train_full_3': 1484}, 'clicked': {'0': 10628, '1': 463}}
+id-570846 {'from-file': {'release1/train_full_2': 9242, 'release1/train_full_3': 27090}, 'clicked': {'0': 33503, '1': 2829}}
+id-572112 {'from-file': {'release1/train_full_2': 8903, 'release1/train_full_3': 15499}, 'clicked': {'0': 22697, '1': 1705}}
+id-572263 {'from-file': {'release1/train_full_2': 7138, 'release1/train_full_3': 23815}, 'clicked': {'0': 30332, '1': 621}}
+id-569065 {'from-file': {'release1/train_full_2': 6629, 'release1/train_full_3': 28784}, 'clicked': {'0': 33794, '1': 1619}}
+id-564492 {'from-file': {'release1/train_full_2': 6246, 'release1/train_full_3': 27755}, 'clicked': {'0': 33433, '1': 568}}
+id-571948 {'from-file': {'release1/train_full_2': 5769, 'release1/train_full_3': 7528}, 'clicked': {'0': 12850, '1': 447}}
+id-569364 {'from-file': {'release1/train_full_2': 5138, 'release1/train_full_3': 31378, 'release1/train_full_4': 15834}, 'clicked': {'0': 51051, '1': 1299}}
+id-572262 {'from-file': {'release1/train_full_2': 4785, 'release1/train_full_3': 24217}, 'clicked': {'0': 28058, '1': 944}}
+id-569088 {'from-file': {'release1/train_full_2': 4588, 'release1/train_full_3': 28588}, 'clicked': {'0': 31814, '1': 1362}}
+id-572644 {'from-file': {'release1/train_full_2': 4203, 'release1/train_full_3': 15495}, 'clicked': {'0': 18820, '1': 878}}
+id-572219 {'from-file': {'release1/train_full_2': 3596, 'release1/train_full_3': 31391, 'release1/train_full_4': 11593}, 'clicked': {'0': 44557, '1': 2023}}
+id-572846 {'from-file': {'release1/train_full_2': 2412, 'release1/train_full_3': 9309}, 'clicked': {'0': 11062, '1': 659}}
+id-572939 {'from-file': {'release1/train_full_2': 1723, 'release1/train_full_3': 9343}, 'clicked': {'0': 10752, '1': 314}}
+id-572582 {'from-file': {'release1/train_full_2': 660, 'release1/train_full_3': 21537}, 'clicked': {'0': 21337, '1': 860}}
+id-572825 {'from-file': {'release1/train_full_2': 391, 'release1/train_full_3': 29299}, 'clicked': {'0': 28893, '1': 797}}
+id-572797 {'from-file': {'release1/train_full_2': 7, 'release1/train_full_3': 31383, 'release1/train_full_4': 1895}, 'clicked': {'0': 32355, '1': 930}}
+id-573053 {'from-file': {'release1/train_full_3': 18005}, 'clicked': {'0': 17778, '1': 227}}
+id-573039 {'from-file': {'release1/train_full_3': 16535}, 'clicked': {'0': 16343, '1': 192}}
+id-573243 {'from-file': {'release1/train_full_3': 25719}, 'clicked': {'0': 25287, '1': 432}}
+id-573268 {'from-file': {'release1/train_full_3': 5837}, 'clicked': {'0': 5536, '1': 301}}
+id-573241 {'from-file': {'release1/train_full_3': 16498}, 'clicked': {'0': 16092, '1': 406}}
+id-573195 {'from-file': {'release1/train_full_3': 2615}, 'clicked': {'0': 2273, '1': 342}}
+id-573391 {'from-file': {'release1/train_full_3': 24076, 'release1/train_full_4': 1942}, 'clicked': {'0': 25020, '1': 998}}
+id-572076 {'from-file': {'release1/train_full_3': 22068, 'release1/train_full_4': 13630}, 'clicked': {'0': 35344, '1': 354}}
+id-573811 {'from-file': {'release1/train_full_3': 21679, 'release1/train_full_4': 8508}, 'clicked': {'0': 29674, '1': 513}}
+id-572615 {'from-file': {'release1/train_full_3': 22144, 'release1/train_full_4': 12064}, 'clicked': {'0': 32998, '1': 1210}}
+id-574244 {'from-file': {'release1/train_full_3': 22229, 'release1/train_full_4': 18643}, 'clicked': {'0': 39914, '1': 958}}
+id-571077 {'from-file': {'release1/train_full_3': 17262, 'release1/train_full_4': 21138}, 'clicked': {'0': 37590, '1': 810}}
+id-574160 {'from-file': {'release1/train_full_3': 21947, 'release1/train_full_4': 12064}, 'clicked': {'0': 33172, '1': 839}}
+id-569479 {'from-file': {'release1/train_full_3': 22065, 'release1/train_full_4': 42040}, 'clicked': {'0': 62215, '1': 1890}}
+id-574296 {'from-file': {'release1/train_full_3': 22244, 'release1/train_full_4': 2868}, 'clicked': {'0': 24722, '1': 390}}
+id-571449 {'from-file': {'release1/train_full_3': 22025, 'release1/train_full_4': 12262}, 'clicked': {'0': 32791, '1': 1496}}
+id-573506 {'from-file': {'release1/train_full_3': 18892}, 'clicked': {'0': 18166, '1': 726}}
+id-574028 {'from-file': {'release1/train_full_3': 22079, 'release1/train_full_4': 13922}, 'clicked': {'0': 33800, '1': 2201}}
+id-574716 {'from-file': {'release1/train_full_3': 20518}, 'clicked': {'0': 18742, '1': 1776}}
+id-574512 {'from-file': {'release1/train_full_3': 21290, 'release1/train_full_4': 32109}, 'clicked': {'0': 49857, '1': 3542}}
+id-574468 {'from-file': {'release1/train_full_3': 19970}, 'clicked': {'0': 18641, '1': 1329}}
+id-574842 {'from-file': {'release1/train_full_3': 18540, 'release1/train_full_4': 23936}, 'clicked': {'0': 41391, '1': 1085}}
+id-574828 {'from-file': {'release1/train_full_3': 18383, 'release1/train_full_4': 18294}, 'clicked': {'0': 33901, '1': 2776}}
+id-574905 {'from-file': {'release1/train_full_3': 18275, 'release1/train_full_4': 15941}, 'clicked': {'0': 31833, '1': 2383}}
+id-575000 {'from-file': {'release1/train_full_3': 17149, 'release1/train_full_4': 44819, 'release1/train_full_5': 16092}, 'clicked': {'0': 73653, '1': 4407}}
+id-575115 {'from-file': {'release1/train_full_3': 16566, 'release1/train_full_4': 15818}, 'clicked': {'0': 30333, '1': 2051}}
+id-575230 {'from-file': {'release1/train_full_3': 14828, 'release1/train_full_4': 15990}, 'clicked': {'0': 29691, '1': 1127}}
+id-575220 {'from-file': {'release1/train_full_3': 14566, 'release1/train_full_4': 23959}, 'clicked': {'0': 36791, '1': 1734}}
+id-575134 {'from-file': {'release1/train_full_3': 13729, 'release1/train_full_4': 1172}, 'clicked': {'0': 14326, '1': 575}}
+id-574980 {'from-file': {'release1/train_full_3': 13113, 'release1/train_full_4': 23943}, 'clicked': {'0': 35582, '1': 1474}}
+id-574541 {'from-file': {'release1/train_full_3': 12807, 'release1/train_full_4': 30807}, 'clicked': {'0': 42695, '1': 919}}
+id-575072 {'from-file': {'release1/train_full_3': 11846, 'release1/train_full_4': 16126}, 'clicked': {'0': 27197, '1': 775}}
+id-575157 {'from-file': {'release1/train_full_3': 11485, 'release1/train_full_4': 31141}, 'clicked': {'0': 41764, '1': 862}}
+id-575438 {'from-file': {'release1/train_full_3': 9725, 'release1/train_full_4': 16012}, 'clicked': {'0': 24368, '1': 1369}}
+id-572306 {'from-file': {'release1/train_full_3': 9384, 'release1/train_full_4': 43452}, 'clicked': {'0': 51371, '1': 1465}}
+id-575196 {'from-file': {'release1/train_full_3': 8957, 'release1/train_full_4': 21987}, 'clicked': {'0': 29208, '1': 1736}}
+id-575768 {'from-file': {'release1/train_full_3': 8414, 'release1/train_full_4': 42306}, 'clicked': {'0': 49463, '1': 1257}}
+id-575912 {'from-file': {'release1/train_full_3': 7526, 'release1/train_full_4': 25540}, 'clicked': {'0': 31817, '1': 1249}}
+id-574733 {'from-file': {'release1/train_full_3': 6190, 'release1/train_full_4': 18064}, 'clicked': {'0': 23808, '1': 446}}
+id-575934 {'from-file': {'release1/train_full_3': 5115, 'release1/train_full_4': 44659, 'release1/train_full_5': 12606}, 'clicked': {'0': 59741, '1': 2639}}
+id-572770 {'from-file': {'release1/train_full_3': 4904, 'release1/train_full_4': 44008}, 'clicked': {'0': 47563, '1': 1349}}
+id-575769 {'from-file': {'release1/train_full_3': 4421, 'release1/train_full_4': 18442}, 'clicked': {'0': 22209, '1': 654}}
+id-576350 {'from-file': {'release1/train_full_3': 4226, 'release1/train_full_4': 25557}, 'clicked': {'0': 28032, '1': 1751}}
+id-576247 {'from-file': {'release1/train_full_3': 4004, 'release1/train_full_4': 20328}, 'clicked': {'0': 23571, '1': 761}}
+id-576101 {'from-file': {'release1/train_full_3': 3776, 'release1/train_full_4': 42432}, 'clicked': {'0': 44551, '1': 1657}}
+id-576143 {'from-file': {'release1/train_full_3': 3160, 'release1/train_full_4': 35958}, 'clicked': {'0': 37686, '1': 1432}}
+id-574957 {'from-file': {'release1/train_full_3': 2674, 'release1/train_full_4': 44367, 'release1/train_full_5': 15954}, 'clicked': {'0': 58525, '1': 4470}}
+id-569350 {'from-file': {'release1/train_full_3': 2181, 'release1/train_full_4': 704}, 'clicked': {'0': 2804, '1': 81}}
+id-576488 {'from-file': {'release1/train_full_3': 1031, 'release1/train_full_4': 26318}, 'clicked': {'0': 26051, '1': 1298}}
+id-67124 {'from-file': {'release1/train_full_3': 153, 'release1/train_full_4': 16504}, 'clicked': {'0': 14952, '1': 1705}}
+id-575405 {'from-file': {'release1/train_full_4': 30114}, 'clicked': {'0': 28666, '1': 1448}}
+id-576114 {'from-file': {'release1/train_full_4': 21970}, 'clicked': {'0': 21330, '1': 640}}
+id-577182 {'from-file': {'release1/train_full_4': 3569}, 'clicked': {'0': 3339, '1': 230}}
+id-576942 {'from-file': {'release1/train_full_4': 31345}, 'clicked': {'0': 30577, '1': 768}}
+id-576526 {'from-file': {'release1/train_full_4': 24319}, 'clicked': {'0': 23582, '1': 737}}
+id-576018 {'from-file': {'release1/train_full_4': 40381}, 'clicked': {'0': 38224, '1': 2157}}
+id-577340 {'from-file': {'release1/train_full_4': 31610}, 'clicked': {'0': 30050, '1': 1560}}
+id-577446 {'from-file': {'release1/train_full_4': 3989}, 'clicked': {'0': 3772, '1': 217}}
+id-577454 {'from-file': {'release1/train_full_4': 36625}, 'clicked': {'0': 35216, '1': 1409}}
+id-576923 {'from-file': {'release1/train_full_4': 37875, 'release1/train_full_5': 1603}, 'clicked': {'0': 37905, '1': 1573}}
+id-577369 {'from-file': {'release1/train_full_4': 36299}, 'clicked': {'0': 35270, '1': 1029}}
+id-577816 {'from-file': {'release1/train_full_4': 35909, 'release1/train_full_5': 1947}, 'clicked': {'0': 36715, '1': 1141}}
+id-577437 {'from-file': {'release1/train_full_4': 35223, 'release1/train_full_5': 16187}, 'clicked': {'0': 50361, '1': 1049}}
+id-577876 {'from-file': {'release1/train_full_4': 16898}, 'clicked': {'0': 16336, '1': 562}}
+id-576030 {'from-file': {'release1/train_full_4': 34714, 'release1/train_full_5': 15904}, 'clicked': {'0': 49071, '1': 1547}}
+id-575574 {'from-file': {'release1/train_full_4': 12793, 'release1/train_full_5': 4522}, 'clicked': {'0': 16868, '1': 447}}
+id-577365 {'from-file': {'release1/train_full_4': 32325, 'release1/train_full_5': 17477}, 'clicked': {'0': 48294, '1': 1508}}
+id-578144 {'from-file': {'release1/train_full_4': 31065, 'release1/train_full_5': 19935}, 'clicked': {'0': 49051, '1': 1949}}
+id-574791 {'from-file': {'release1/train_full_4': 28949, 'release1/train_full_5': 23806}, 'clicked': {'0': 51681, '1': 1074}}
+id-576958 {'from-file': {'release1/train_full_4': 24686, 'release1/train_full_5': 23583}, 'clicked': {'0': 45189, '1': 3080}}
+id-578578 {'from-file': {'release1/train_full_4': 24136, 'release1/train_full_5': 15315}, 'clicked': {'0': 38272, '1': 1179}}
+id-578704 {'from-file': {'release1/train_full_4': 24538, 'release1/train_full_5': 26613}, 'clicked': {'0': 48325, '1': 2826}}
+id-578379 {'from-file': {'release1/train_full_4': 22436, 'release1/train_full_5': 17297}, 'clicked': {'0': 38106, '1': 1627}}
+id-578967 {'from-file': {'release1/train_full_4': 20757, 'release1/train_full_5': 29773}, 'clicked': {'0': 45156, '1': 5374}}
+id-578673 {'from-file': {'release1/train_full_4': 11102}, 'clicked': {'0': 10674, '1': 428}}
+id-578942 {'from-file': {'release1/train_full_4': 21081, 'release1/train_full_5': 26806}, 'clicked': {'0': 47048, '1': 839}}
+id-579145 {'from-file': {'release1/train_full_4': 18790, 'release1/train_full_5': 22931}, 'clicked': {'0': 39881, '1': 1840}}
+id-578922 {'from-file': {'release1/train_full_4': 18577, 'release1/train_full_5': 15193}, 'clicked': {'0': 32696, '1': 1074}}
+id-579209 {'from-file': {'release1/train_full_4': 18363, 'release1/train_full_5': 26698}, 'clicked': {'0': 43983, '1': 1078}}
+id-577169 {'from-file': {'release1/train_full_4': 18030, 'release1/train_full_5': 33411}, 'clicked': {'0': 49130, '1': 2311}}
+id-579096 {'from-file': {'release1/train_full_4': 17791, 'release1/train_full_5': 15427}, 'clicked': {'0': 32620, '1': 598}}
+id-579418 {'from-file': {'release1/train_full_4': 15693, 'release1/train_full_5': 27212}, 'clicked': {'0': 39198, '1': 3707}}
+id-571691 {'from-file': {'release1/train_full_4': 15008, 'release1/train_full_5': 38125}, 'clicked': {'0': 52311, '1': 822}}
+id-579692 {'from-file': {'release1/train_full_4': 14132, 'release1/train_full_5': 27075}, 'clicked': {'0': 40164, '1': 1043}}
+id-579435 {'from-file': {'release1/train_full_4': 13687, 'release1/train_full_5': 39246}, 'clicked': {'0': 46873, '1': 6060}}
+id-579666 {'from-file': {'release1/train_full_4': 13186, 'release1/train_full_5': 23616}, 'clicked': {'0': 35301, '1': 1501}}
+id-579665 {'from-file': {'release1/train_full_4': 12848, 'release1/train_full_5': 35495}, 'clicked': {'0': 47183, '1': 1160}}
+id-576453 {'from-file': {'release1/train_full_4': 12262, 'release1/train_full_5': 36736}, 'clicked': {'0': 47403, '1': 1595}}
+id-572780 {'from-file': {'release1/train_full_4': 12144, 'release1/train_full_5': 34952}, 'clicked': {'0': 46095, '1': 1001}}
+id-579837 {'from-file': {'release1/train_full_4': 11787, 'release1/train_full_5': 38483}, 'clicked': {'0': 43408, '1': 6862}}
+id-580040 {'from-file': {'release1/train_full_4': 10635, 'release1/train_full_5': 37898}, 'clicked': {'0': 47088, '1': 1445}}
+id-580290 {'from-file': {'release1/train_full_4': 9969, 'release1/train_full_5': 40768}, 'clicked': {'0': 49241, '1': 1496}}
+id-571566 {'from-file': {'release1/train_full_4': 9645, 'release1/train_full_5': 40640}, 'clicked': {'0': 47661, '1': 2624}}
+id-579718 {'from-file': {'release1/train_full_4': 9078, 'release1/train_full_5': 42153}, 'clicked': {'0': 49939, '1': 1292}}
+id-580208 {'from-file': {'release1/train_full_4': 7929, 'release1/train_full_5': 39103}, 'clicked': {'0': 44905, '1': 2127}}
+id-576414 {'from-file': {'release1/train_full_4': 6743, 'release1/train_full_5': 46878}, 'clicked': {'0': 51761, '1': 1860}}
+id-576048 {'from-file': {'release1/train_full_4': 4138, 'release1/train_full_5': 41894}, 'clicked': {'0': 44212, '1': 1820}}
+id-579840 {'from-file': {'release1/train_full_4': 2518, 'release1/train_full_5': 43040}, 'clicked': {'0': 43601, '1': 1957}}
+id-581124 {'from-file': {'release1/train_full_4': 2013, 'release1/train_full_5': 47066, 'release1/train_full_6': 853}, 'clicked': {'0': 47750, '1': 2182}}
+id-580804 {'from-file': {'release1/train_full_4': 1439, 'release1/train_full_5': 27470}, 'clicked': {'0': 27751, '1': 1158}}
+id-581272 {'from-file': {'release1/train_full_4': 1173, 'release1/train_full_5': 40155}, 'clicked': {'0': 39080, '1': 2248}}
+id-581020 {'from-file': {'release1/train_full_5': 47008, 'release1/train_full_6': 202}, 'clicked': {'0': 45861, '1': 1349}}
+id-580257 {'from-file': {'release1/train_full_5': 40438}, 'clicked': {'0': 38814, '1': 1624}}
+id-581506 {'from-file': {'release1/train_full_5': 41298, 'release1/train_full_6': 11889}, 'clicked': {'0': 49227, '1': 3960}}
+id-581732 {'from-file': {'release1/train_full_5': 40925, 'release1/train_full_6': 7315}, 'clicked': {'0': 46243, '1': 1997}}
+id-581974 {'from-file': {'release1/train_full_5': 25027}, 'clicked': {'0': 24065, '1': 962}}
+id-582065 {'from-file': {'release1/train_full_5': 35962, 'release1/train_full_6': 4383}, 'clicked': {'0': 39099, '1': 1246}}
+id-582200 {'from-file': {'release1/train_full_5': 30884}, 'clicked': {'0': 30573, '1': 311}}
+id-582459 {'from-file': {'release1/train_full_5': 32328, 'release1/train_full_6': 11184}, 'clicked': {'0': 42881, '1': 631}}
+id-580167 {'from-file': {'release1/train_full_5': 30515, 'release1/train_full_6': 28588}, 'clicked': {'0': 55747, '1': 3356}}
+id-582747 {'from-file': {'release1/train_full_5': 30511, 'release1/train_full_6': 9674}, 'clicked': {'0': 39909, '1': 276}}
+id-581953 {'from-file': {'release1/train_full_5': 30422, 'release1/train_full_6': 28692}, 'clicked': {'0': 58229, '1': 885}}
+id-578577 {'from-file': {'release1/train_full_5': 30007, 'release1/train_full_6': 28669}, 'clicked': {'0': 55807, '1': 2869}}
+id-582949 {'from-file': {'release1/train_full_5': 27751, 'release1/train_full_6': 2135}, 'clicked': {'0': 29044, '1': 842}}
+id-583144 {'from-file': {'release1/train_full_5': 22414, 'release1/train_full_6': 34829}, 'clicked': {'0': 54848, '1': 2395}}
+id-583412 {'from-file': {'release1/train_full_5': 21980, 'release1/train_full_6': 4032}, 'clicked': {'0': 24276, '1': 1736}}
+id-583364 {'from-file': {'release1/train_full_5': 21003, 'release1/train_full_6': 23955}, 'clicked': {'0': 42807, '1': 2151}}
+id-583585 {'from-file': {'release1/train_full_5': 19907, 'release1/train_full_6': 202}, 'clicked': {'0': 19429, '1': 680}}
+id-580535 {'from-file': {'release1/train_full_5': 20660, 'release1/train_full_6': 18756}, 'clicked': {'0': 38528, '1': 888}}
+id-583545 {'from-file': {'release1/train_full_5': 20285, 'release1/train_full_6': 24001}, 'clicked': {'0': 41041, '1': 3245}}
+id-583553 {'from-file': {'release1/train_full_5': 19297, 'release1/train_full_6': 34814}, 'clicked': {'0': 50108, '1': 4003}}
+id-583713 {'from-file': {'release1/train_full_5': 18995, 'release1/train_full_6': 18362}, 'clicked': {'0': 36045, '1': 1312}}
+id-583630 {'from-file': {'release1/train_full_5': 18499, 'release1/train_full_6': 12043}, 'clicked': {'0': 29520, '1': 1022}}
+id-583691 {'from-file': {'release1/train_full_5': 18235, 'release1/train_full_6': 23861}, 'clicked': {'0': 39653, '1': 2443}}
+id-582097 {'from-file': {'release1/train_full_5': 8725}, 'clicked': {'0': 8570, '1': 155}}
+id-581428 {'from-file': {'release1/train_full_5': 16547, 'release1/train_full_6': 21153}, 'clicked': {'0': 34928, '1': 2772}}
+id-580174 {'from-file': {'release1/train_full_5': 16162, 'release1/train_full_6': 35011}, 'clicked': {'0': 50050, '1': 1123}}
+id-583861 {'from-file': {'release1/train_full_5': 15621, 'release1/train_full_6': 25945}, 'clicked': {'0': 40312, '1': 1254}}
+id-580911 {'from-file': {'release1/train_full_5': 15087, 'release1/train_full_6': 34919}, 'clicked': {'0': 48315, '1': 1691}}
+id-583970 {'from-file': {'release1/train_full_5': 14316, 'release1/train_full_6': 25136}, 'clicked': {'0': 38119, '1': 1333}}
+id-584029 {'from-file': {'release1/train_full_5': 13923, 'release1/train_full_6': 37966}, 'clicked': {'0': 50663, '1': 1226}}
+id-584028 {'from-file': {'release1/train_full_5': 13162, 'release1/train_full_6': 12144}, 'clicked': {'0': 24915, '1': 391}}
+id-580891 {'from-file': {'release1/train_full_5': 12645, 'release1/train_full_6': 33402}, 'clicked': {'0': 44708, '1': 1339}}
+id-584057 {'from-file': {'release1/train_full_5': 12244, 'release1/train_full_6': 12952}, 'clicked': {'0': 24845, '1': 351}}
+id-584221 {'from-file': {'release1/train_full_5': 12083, 'release1/train_full_6': 24341}, 'clicked': {'0': 34714, '1': 1710}}
+id-584199 {'from-file': {'release1/train_full_5': 11552, 'release1/train_full_6': 36240}, 'clicked': {'0': 45662, '1': 2130}}
+id-581450 {'from-file': {'release1/train_full_5': 9585, 'release1/train_full_6': 37854}, 'clicked': {'0': 45850, '1': 1589}}
+id-584506 {'from-file': {'release1/train_full_5': 9369, 'release1/train_full_6': 29075}, 'clicked': {'0': 37369, '1': 1075}}
+id-584274 {'from-file': {'release1/train_full_5': 8938, 'release1/train_full_6': 31710}, 'clicked': {'0': 39121, '1': 1527}}
+id-580638 {'from-file': {'release1/train_full_5': 8855, 'release1/train_full_6': 38778, 'release1/train_full_7': 172}, 'clicked': {'0': 45028, '1': 2777}}
+id-584696 {'from-file': {'release1/train_full_5': 8259, 'release1/train_full_6': 36250}, 'clicked': {'0': 43497, '1': 1012}}
+id-584443 {'from-file': {'release1/train_full_5': 7384, 'release1/train_full_6': 29357}, 'clicked': {'0': 34312, '1': 2429}}
+id-581212 {'from-file': {'release1/train_full_5': 6791, 'release1/train_full_6': 36137}, 'clicked': {'0': 41576, '1': 1352}}
+id-584712 {'from-file': {'release1/train_full_5': 6210, 'release1/train_full_6': 29193}, 'clicked': {'0': 32552, '1': 2851}}
+id-585035 {'from-file': {'release1/train_full_5': 4916, 'release1/train_full_6': 28694}, 'clicked': {'0': 32643, '1': 967}}
+id-584898 {'from-file': {'release1/train_full_5': 3698, 'release1/train_full_6': 35946}, 'clicked': {'0': 38223, '1': 1421}}
+id-585251 {'from-file': {'release1/train_full_5': 3516, 'release1/train_full_6': 33652}, 'clicked': {'0': 36454, '1': 714}}
+id-585212 {'from-file': {'release1/train_full_5': 3309, 'release1/train_full_6': 35598}, 'clicked': {'0': 36943, '1': 1964}}
+id-581483 {'from-file': {'release1/train_full_5': 2289, 'release1/train_full_6': 38310, 'release1/train_full_7': 2610}, 'clicked': {'0': 40943, '1': 2266}}
+id-585458 {'from-file': {'release1/train_full_5': 2190, 'release1/train_full_6': 26731}, 'clicked': {'0': 28138, '1': 783}}
+id-585487 {'from-file': {'release1/train_full_5': 826, 'release1/train_full_6': 36429}, 'clicked': {'0': 36513, '1': 742}}
+id-585495 {'from-file': {'release1/train_full_5': 699, 'release1/train_full_6': 35726}, 'clicked': {'0': 35305, '1': 1120}}
+id-585795 {'from-file': {'release1/train_full_5': 166, 'release1/train_full_6': 38305, 'release1/train_full_7': 18043}, 'clicked': {'0': 54721, '1': 1793}}
+id-584453 {'from-file': {'release1/train_full_6': 33674}, 'clicked': {'0': 32415, '1': 1259}}
+id-586046 {'from-file': {'release1/train_full_6': 36787, 'release1/train_full_7': 19034}, 'clicked': {'0': 53595, '1': 2226}}
+id-585224 {'from-file': {'release1/train_full_6': 17217}, 'clicked': {'0': 16830, '1': 387}}
+id-586231 {'from-file': {'release1/train_full_6': 33962, 'release1/train_full_7': 7008}, 'clicked': {'0': 39287, '1': 1683}}
+id-586406 {'from-file': {'release1/train_full_6': 30594, 'release1/train_full_7': 4513}, 'clicked': {'0': 33160, '1': 1947}}
+id-583074 {'from-file': {'release1/train_full_6': 20650, 'release1/train_full_7': 61656}, 'clicked': {'0': 80389, '1': 1917}}
+id-579677 {'from-file': {'release1/train_full_6': 19290, 'release1/train_full_7': 63740, 'release1/train_half_8': 24325}, 'clicked': {'0': 104162, '1': 3193}}
+id-586888 {'from-file': {'release1/train_full_6': 7106}, 'clicked': {'0': 6854, '1': 252}}
+id-583812 {'from-file': {'release1/train_full_6': 18090, 'release1/train_full_7': 63604, 'release1/train_half_8': 23897}, 'clicked': {'0': 100800, '1': 4791}}
+id-584368 {'from-file': {'release1/train_full_6': 17825, 'release1/train_full_7': 34067}, 'clicked': {'0': 49365, '1': 2527}}
+id-581414 {'from-file': {'release1/train_full_6': 16588, 'release1/train_full_7': 64092, 'release1/train_half_8': 13870}, 'clicked': {'0': 93147, '1': 1403}}
+id-555317 {'from-file': {'release1/train_full_6': 15852, 'release1/train_full_7': 63603, 'release1/train_half_8': 24053}, 'clicked': {'0': 100917, '1': 2591}}
+id-586975 {'from-file': {'release1/train_full_6': 14799, 'release1/train_full_7': 47603}, 'clicked': {'0': 59811, '1': 2591}}
+id-586936 {'from-file': {'release1/train_full_6': 14505, 'release1/train_full_7': 36432}, 'clicked': {'0': 50121, '1': 816}}
+id-587027 {'from-file': {'release1/train_full_6': 14336, 'release1/train_full_7': 47032}, 'clicked': {'0': 59714, '1': 1654}}
+id-587135 {'from-file': {'release1/train_full_6': 10707, 'release1/train_full_7': 44160}, 'clicked': {'0': 53970, '1': 897}}
+id-587136 {'from-file': {'release1/train_full_6': 10545, 'release1/train_full_7': 46337}, 'clicked': {'0': 54764, '1': 2118}}
+id-583860 {'from-file': {'release1/train_full_6': 8477, 'release1/train_full_7': 63695, 'release1/train_half_8': 24062}, 'clicked': {'0': 93806, '1': 2428}}
+id-587213 {'from-file': {'release1/train_full_6': 6303, 'release1/train_full_7': 53602}, 'clicked': {'0': 58734, '1': 1171}}
+id-584290 {'from-file': {'release1/train_full_6': 5679, 'release1/train_full_7': 63715, 'release1/train_half_8': 24049}, 'clicked': {'0': 90551, '1': 2892}}
+id-587060 {'from-file': {'release1/train_full_6': 3829, 'release1/train_full_7': 59749}, 'clicked': {'0': 61551, '1': 2027}}
+id-587288 {'from-file': {'release1/train_full_6': 3593, 'release1/train_full_7': 57180}, 'clicked': {'0': 59614, '1': 1159}}
+id-587295 {'from-file': {'release1/train_full_6': 3250, 'release1/train_full_7': 55332}, 'clicked': {'0': 57886, '1': 696}}
+id-587349 {'from-file': {'release1/train_full_6': 1684, 'release1/train_full_7': 50883}, 'clicked': {'0': 48573, '1': 3994}}
+id-585034 {'from-file': {'release1/train_full_6': 1037, 'release1/train_full_7': 63835, 'release1/train_half_8': 25486}, 'clicked': {'0': 85799, '1': 4559}}
+id-587427 {'from-file': {'release1/train_full_7': 59852, 'release1/train_half_8': 4641}, 'clicked': {'0': 63008, '1': 1485}}
+id-587385 {'from-file': {'release1/train_full_7': 57324, 'release1/train_half_8': 13761}, 'clicked': {'0': 68091, '1': 2994}}
+id-587522 {'from-file': {'release1/train_full_7': 49112, 'release1/train_half_8': 1669}, 'clicked': {'0': 49856, '1': 925}}
+id-587598 {'from-file': {'release1/train_full_7': 34811}, 'clicked': {'0': 34184, '1': 627}}
+id-576762 {'from-file': {'release1/train_full_7': 44411, 'release1/train_half_8': 25038}, 'clicked': {'0': 68137, '1': 1312}}
+id-587493 {'from-file': {'release1/train_full_7': 4007}, 'clicked': {'0': 3976, '1': 31}}
+id-564235 {'from-file': {'release1/train_full_7': 22392}, 'clicked': {'0': 21225, '1': 1167}}
+id-593550 {'from-file': {'release1/train_half_10': 25}, 'clicked': {'0': 25, '1': 0}}
+id-593970 {'from-file': {'release1/train_half_10': 14790}, 'clicked': {'0': 14508, '1': 282}}
+id-593981 {'from-file': {'release1/train_half_10': 15383}, 'clicked': {'0': 14787, '1': 596}}
+id-590906 {'from-file': {'release1/train_half_10': 12997}, 'clicked': {'0': 12749, '1': 248}}
+id-591912 {'from-file': {'release1/train_half_10': 16328}, 'clicked': {'0': 15681, '1': 647}}
+id-593800 {'from-file': {'release1/train_half_10': 11323}, 'clicked': {'0': 11149, '1': 174}}
+id-595102 {'from-file': {'release1/train_half_10': 2761}, 'clicked': {'0': 2718, '1': 43}}
+id-593458 {'from-file': {'release1/train_half_10': 14316}, 'clicked': {'0': 13812, '1': 504}}
+id-597151 {'from-file': {'release1/train_half_10': 7947}, 'clicked': {'0': 7342, '1': 605}}
+id-599389 {'from-file': {'release1/train_half_11': 14766}, 'clicked': {'0': 13893, '1': 873}}
+id-598504 {'from-file': {'release1/train_half_11': 12431}, 'clicked': {'0': 11639, '1': 792}}
+id-599250 {'from-file': {'release1/train_half_11': 12279}, 'clicked': {'0': 12046, '1': 233}}
+id-598514 {'from-file': {'release1/train_half_11': 5037}, 'clicked': {'0': 4913, '1': 124}}
+id-599710 {'from-file': {'release1/train_half_11': 14674}, 'clicked': {'0': 14151, '1': 523}}
+id-599637 {'from-file': {'release1/train_half_11': 14480}, 'clicked': {'0': 13620, '1': 860}}
+id-600581 {'from-file': {'release1/train_half_11': 14856}, 'clicked': {'0': 14255, '1': 601}}
+id-595534 {'from-file': {'release1/train_half_11': 14552}, 'clicked': {'0': 13994, '1': 558}}
+id-600847 {'from-file': {'release1/train_half_11': 10019}, 'clicked': {'0': 9421, '1': 598}}
+id-592012 {'from-file': {'release1/train_half_11': 14548}, 'clicked': {'0': 14200, '1': 348}}
+id-598966 {'from-file': {'release1/train_half_11': 5557}, 'clicked': {'0': 5001, '1': 556}}
+id-601556 {'from-file': {'release1/train_half_11': 10294}, 'clicked': {'0': 9884, '1': 410}}
+id-605290 {'from-file': {'release1/train_half_12': 12073}, 'clicked': {'0': 11913, '1': 160}}
+id-603919 {'from-file': {'release1/train_half_12': 1735}, 'clicked': {'0': 1706, '1': 29}}
+id-603485 {'from-file': {'release1/train_half_12': 13633}, 'clicked': {'0': 13470, '1': 163}}
+id-599672 {'from-file': {'release1/train_half_12': 1967}, 'clicked': {'0': 1901, '1': 66}}
+id-599963 {'from-file': {'release1/train_half_12': 2030}, 'clicked': {'0': 1930, '1': 100}}
+id-600657 {'from-file': {'release1/train_half_12': 15523}, 'clicked': {'0': 15176, '1': 347}}
+id-604681 {'from-file': {'release1/train_half_12': 14382}, 'clicked': {'0': 14117, '1': 265}}
+id-604168 {'from-file': {'release1/train_half_12': 16873}, 'clicked': {'0': 16563, '1': 310}}
+id-605787 {'from-file': {'release1/train_half_12': 14177}, 'clicked': {'0': 13156, '1': 1021}}
+id-604938 {'from-file': {'release1/train_half_12': 11439}, 'clicked': {'0': 11102, '1': 337}}
+id-600054 {'from-file': {'release1/train_half_12': 15447}, 'clicked': {'0': 15052, '1': 395}}
+id-606680 {'from-file': {'release1/train_half_12': 14057}, 'clicked': {'0': 13764, '1': 293}}
+id-609306 {'from-file': {'release1/train_half_13': 12771}, 'clicked': {'0': 12434, '1': 337}}
+id-608323 {'from-file': {'release1/train_half_13': 10241}, 'clicked': {'0': 9987, '1': 254}}
+id-610635 {'from-file': {'release1/train_half_13': 12893}, 'clicked': {'0': 12529, '1': 364}}
+id-613786 {'from-file': {'release1/train_half_14': 2045}, 'clicked': {'0': 2013, '1': 32}}
+id-611078 {'from-file': {'release1/train_half_14': 13121}, 'clicked': {'0': 12754, '1': 367}}
+id-613675 {'from-file': {'release1/train_half_14': 16342}, 'clicked': {'0': 15526, '1': 816}}
+id-613111 {'from-file': {'release1/train_half_14': 6537}, 'clicked': {'0': 6436, '1': 101}}
+id-612461 {'from-file': {'release1/train_half_14': 7991}, 'clicked': {'0': 7735, '1': 256}}
+id-613765 {'from-file': {'release1/train_half_14': 7756}, 'clicked': {'0': 7364, '1': 392}}
+id-613449 {'from-file': {'release1/train_half_14': 401}, 'clicked': {'0': 390, '1': 11}}
+id-612506 {'from-file': {'release1/train_half_14': 7094}, 'clicked': {'0': 6992, '1': 102}}
+id-611110 {'from-file': {'release1/train_half_14': 12698}, 'clicked': {'0': 11673, '1': 1025}}
+id-611851 {'from-file': {'release1/train_half_14': 8375}, 'clicked': {'0': 8236, '1': 139}}
+id-614016 {'from-file': {'release1/train_half_14': 10063}, 'clicked': {'0': 9811, '1': 252}}
+id-614010 {'from-file': {'release1/train_half_14': 9539}, 'clicked': {'0': 9343, '1': 196}}
+id-614126 {'from-file': {'release1/train_half_14': 1684}, 'clicked': {'0': 1673, '1': 11}}
+id-614149 {'from-file': {'release1/train_half_14': 1630}, 'clicked': {'0': 1575, '1': 55}}
+id-588593 {'from-file': {'release1/train_half_8': 12868}, 'clicked': {'0': 12660, '1': 208}}
+id-590471 {'from-file': {'release1/train_half_9': 14077}, 'clicked': {'0': 13598, '1': 479}}
+id-589535 {'from-file': {'release1/train_half_9': 14031}, 'clicked': {'0': 13745, '1': 286}}
+id-590109 {'from-file': {'release1/train_half_9': 16300}, 'clicked': {'0': 15719, '1': 581}}
+id-590318 {'from-file': {'release1/train_half_9': 15646}, 'clicked': {'0': 15503, '1': 143}}
+id-590000 {'from-file': {'release1/train_half_9': 7846}, 'clicked': {'0': 7673, '1': 173}}
+id-589393 {'from-file': {'release1/train_half_9': 14214}, 'clicked': {'0': 13741, '1': 473}}
+id-591455 {'from-file': {'release1/train_half_9': 16635}, 'clicked': {'0': 16309, '1': 326}}
+id-589776 {'from-file': {'release1/train_half_9': 16313}, 'clicked': {'0': 16077, '1': 236}}
+id-591145 {'from-file': {'release1/train_half_9': 16667}, 'clicked': {'0': 16081, '1': 586}}
+id-590823 {'from-file': {'release1/train_half_9': 16583}, 'clicked': {'0': 16271, '1': 312}}
+id-589672 {'from-file': {'release1/train_half_9': 16849}, 'clicked': {'0': 16201, '1': 648}}
+id-589866 {'from-file': {'release1/train_half_9': 5603}, 'clicked': {'0': 5475, '1': 128}}
